@@ -1,0 +1,26 @@
+/*style for task1*/
+.box1 { color:blue; width: 350px; }
+.box2 { color:rgb(0, 0, 0); }
+
+
+/*style for task2*/
+.one { color: rgb(60, 0, 255); font-family:'Times New Roman';}
+.two { font-weight: bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.three { font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.four {margin-left: 500px;
+     font-family:monospace;}
+    
+
+/*style for task4*/
+span{ color: rgb(0, 178, 0); text-decoration: underline;} 
+mark{ color: rgb(255, 3, 3); text-decoration: underline; }
+.first span { color: red}
+.second {color: rgb(74, 2, 255)}
+ ul li:first-child {font-weight: bold;}
+ ol {list-style-type: none;}
+
+
+
+
+ a:visited { color: #ff0004;}
+a:link { color: rgb(233, 33, 33);}*/
